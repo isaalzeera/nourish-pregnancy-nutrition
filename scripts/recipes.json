@@ -1,0 +1,302 @@
+[
+    {
+        "title": "Berry Spinach Power Salad",
+        "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
+        "macros_json": {
+            "calories": 320,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 18
+        },
+        "pregnancy_tags_array": [
+            "Folic Acid",
+            "Iron Rich",
+            "Antioxidants"
+        ]
+    },
+    {
+        "title": "Ginger Lemon Morning Bliss",
+        "image_url": "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?w=800&q=80",
+        "macros_json": {
+            "calories": 180,
+            "protein": 2,
+            "carbs": 40,
+            "fat": 1
+        },
+        "pregnancy_tags_array": [
+            "Nausea Relief",
+            "Hydration",
+            "Vitamin C"
+        ]
+    },
+    {
+        "title": "Grilled Salmon & Quinoa",
+        "image_url": "https://images.unsplash.com/photo-1467003909585-2f8a7270028d?w=800&q=80",
+        "macros_json": {
+            "calories": 550,
+            "protein": 42,
+            "carbs": 45,
+            "fat": 22
+        },
+        "pregnancy_tags_array": [
+            "Omega-3",
+            "Brain Development",
+            "High Protein"
+        ]
+    },
+    {
+        "title": "Avocado & Egg Toast",
+        "image_url": "https://images.unsplash.com/photo-1525351484163-7529414395d8?w=800&q=80",
+        "macros_json": {
+            "calories": 380,
+            "protein": 14,
+            "carbs": 28,
+            "fat": 21
+        },
+        "pregnancy_tags_array": [
+            "Choline",
+            "Healthy Fats",
+            "Energy"
+        ]
+    },
+    {
+        "title": "Greek Yogurt Parfait",
+        "image_url": "https://images.unsplash.com/photo-1488477181946-6428a029177b?w=800&q=80",
+        "macros_json": {
+            "calories": 250,
+            "protein": 18,
+            "carbs": 30,
+            "fat": 6
+        },
+        "pregnancy_tags_array": [
+            "Calcium",
+            "Probiotics",
+            "Bone Health"
+        ]
+    },
+    {
+        "title": "Lentil Soup Comfort",
+        "image_url": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800&q=80",
+        "macros_json": {
+            "calories": 300,
+            "protein": 16,
+            "carbs": 45,
+            "fat": 5
+        },
+        "pregnancy_tags_array": [
+            "Fiber",
+            "Iron Rich",
+            "Digestion"
+        ]
+    },
+    {
+        "title": "Sweet Potato & Black Bean Bowl",
+        "image_url": "https://images.unsplash.com/photo-1511690656952-34342d2c7135?w=800&q=80",
+        "macros_json": {
+            "calories": 420,
+            "protein": 12,
+            "carbs": 65,
+            "fat": 10
+        },
+        "pregnancy_tags_array": [
+            "Vitamin A",
+            "Fiber",
+            "Sustained Energy"
+        ]
+    },
+    {
+        "title": "Chia Seed Pudding",
+        "image_url": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=800&q=80",
+        "macros_json": {
+            "calories": 220,
+            "protein": 6,
+            "carbs": 22,
+            "fat": 12
+        },
+        "pregnancy_tags_array": [
+            "Omega-3",
+            "Fiber",
+            "Calming"
+        ]
+    },
+    {
+        "title": "Chicken & Veggie Stir-Fry",
+        "image_url": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800&q=80",
+        "macros_json": {
+            "calories": 400,
+            "protein": 30,
+            "carbs": 35,
+            "fat": 14
+        },
+        "pregnancy_tags_array": [
+            "Lean Protein",
+            "Vitamins",
+            "Quick Meal"
+        ]
+    },
+    {
+        "title": "Oatmeal with Walnuts",
+        "image_url": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?w=800&q=80",
+        "macros_json": {
+            "calories": 310,
+            "protein": 10,
+            "carbs": 42,
+            "fat": 14
+        },
+        "pregnancy_tags_array": [
+            "Fiber",
+            "Omega-3",
+            "Heart Health"
+        ]
+    },
+    {
+        "title": "Edamame Snack Poppers",
+        "image_url": "https://images.unsplash.com/photo-1526344965825-f76cd2db534b?w=800&q=80",
+        "macros_json": {
+            "calories": 120,
+            "protein": 11,
+            "carbs": 8,
+            "fat": 5
+        },
+        "pregnancy_tags_array": [
+            "Folic Acid",
+            "Plant Protein",
+            "Snack"
+        ]
+    },
+    {
+        "title": "Turkey & Avocado Wrap",
+        "image_url": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800&q=80",
+        "macros_json": {
+            "calories": 380,
+            "protein": 28,
+            "carbs": 32,
+            "fat": 16
+        },
+        "pregnancy_tags_array": [
+            "Protein",
+            "Healthy Fats",
+            "Lunch"
+        ]
+    },
+    {
+        "title": "Roasted Chickpeas",
+        "image_url": "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=800&q=80",
+        "macros_json": {
+            "calories": 180,
+            "protein": 7,
+            "carbs": 24,
+            "fat": 6
+        },
+        "pregnancy_tags_array": [
+            "Crunchy",
+            "Fiber",
+            "Snack"
+        ]
+    },
+    {
+        "title": "Kale & Quinoa Salad",
+        "image_url": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=800&q=80",
+        "macros_json": {
+            "calories": 340,
+            "protein": 12,
+            "carbs": 40,
+            "fat": 15
+        },
+        "pregnancy_tags_array": [
+            "Iron Rich",
+            "Vitamin K",
+            "Salad"
+        ]
+    },
+    {
+        "title": "Hard Boiled Eggs",
+        "image_url": "https://images.unsplash.com/photo-1582234032446-5e0441d8ad23?w=800&q=80",
+        "macros_json": {
+            "calories": 140,
+            "protein": 12,
+            "carbs": 1,
+            "fat": 10
+        },
+        "pregnancy_tags_array": [
+            "Choline",
+            "Protein",
+            "Easy Snack"
+        ]
+    },
+    {
+        "title": "Banana Almond Butter Toast",
+        "image_url": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&q=80",
+        "macros_json": {
+            "calories": 290,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 14
+        },
+        "pregnancy_tags_array": [
+            "Potassium",
+            "Energy",
+            "Sweet Craving"
+        ]
+    },
+    {
+        "title": "Cottage Cheese Bowl",
+        "image_url": "https://images.unsplash.com/photo-1505253758473-96b701d2cd03?w=800&q=80",
+        "macros_json": {
+            "calories": 200,
+            "protein": 24,
+            "carbs": 8,
+            "fat": 5
+        },
+        "pregnancy_tags_array": [
+            "Calcium",
+            "High Protein",
+            "Bone Health"
+        ]
+    },
+    {
+        "title": "Hummus & Veggie Sticks",
+        "image_url": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?w=800&q=80",
+        "macros_json": {
+            "calories": 180,
+            "protein": 6,
+            "carbs": 18,
+            "fat": 10
+        },
+        "pregnancy_tags_array": [
+            "Fiber",
+            "Hydration",
+            "Snack"
+        ]
+    },
+    {
+        "title": "Lean Beef Stir-Fry",
+        "image_url": "https://images.unsplash.com/photo-1534939561126-855f866541f9?w=800&q=80",
+        "macros_json": {
+            "calories": 450,
+            "protein": 35,
+            "carbs": 30,
+            "fat": 18
+        },
+        "pregnancy_tags_array": [
+            "Iron Rich",
+            "Zinc",
+            "Protein"
+        ]
+    },
+    {
+        "title": "Fruit Salad Medley",
+        "image_url": "https://images.unsplash.com/photo-1568158025251-525c345b14be?w=800&q=80",
+        "macros_json": {
+            "calories": 150,
+            "protein": 2,
+            "carbs": 38,
+            "fat": 0
+        },
+        "pregnancy_tags_array": [
+            "Vitamins",
+            "Hydration",
+            "Fiber"
+        ]
+    }
+]
